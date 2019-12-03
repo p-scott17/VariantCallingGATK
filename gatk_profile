@@ -1,0 +1,8 @@
+export PICARD=/u/home/p/pscott17/picard.jar
+export GATK=/u/project/collaboratory/peter/gatk-4.0.10.0/gatk
+export IGV=/u/project/collaboratory/apps/IGV_2.4.4/igv.sh
+export REF=/u/project/collaboratory/peter/gatk_resources/
+module load bwa
+module load java
+module load samtools
+echo 'gatk_profile sourced'
